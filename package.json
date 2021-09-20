@@ -1,0 +1,12 @@
+{
+	"name": "tutorial-bot",
+	"version": "1.0.0",
+	"main": "src/index.js",
+	"author": "Ferotiq",
+	"license": "ISC",
+	"description": "",
+	"dependencies": {
+		"discord.js": "^13.0.1",
+		"fero-dc": "^2.0.1"
+	}
+}
